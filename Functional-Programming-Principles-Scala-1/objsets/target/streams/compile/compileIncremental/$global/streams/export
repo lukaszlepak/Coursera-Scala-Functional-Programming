@@ -1,0 +1,1 @@
+scalac -deprecation -classpath D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes -language:implicitConversions -bootclasspath D:\Projekty\Coursera-Scala-FP\objsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar D:\Projekty\Coursera-Scala-FP\objsets\src\main\scala\objsets\TweetSet.scala

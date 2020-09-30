@@ -1,0 +1,45 @@
+[info] Packaging D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\progfun1-objsets_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	objsets\TweetData.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetData.class
+[debug] 	objsets\Main$.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Main$.class
+[debug] 	objsets\Main.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Main.class
+[debug] 	objsets\TweetList.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetList.class
+[debug] 	objsets
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets
+[debug] 	objsets\TweetReader.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetReader.class
+[debug] 	objsets\Nil$.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Nil$.class
+[debug] 	objsets\TweetSet.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetSet.class
+[debug] 	objsets\GoogleVsApple$.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\GoogleVsApple$.class
+[debug] 	objsets\TweetSetInterface.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetSetInterface.class
+[debug] 	objsets\TweetReader$.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetReader$.class
+[debug] 	objsets\Nil.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Nil.class
+[debug] 	objsets\Cons.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Cons.class
+[debug] 	objsets\Tweet.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Tweet.class
+[debug] 	objsets\TweetData$.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetData$.class
+[debug] 	objsets\GoogleVsApple.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\GoogleVsApple.class
+[debug] 	objsets\TweetReader$ParseTweets$.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\TweetReader$ParseTweets$.class
+[debug] 	objsets\Empty.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Empty.class
+[debug] 	objsets\Main$delayedInit$body.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\Main$delayedInit$body.class
+[debug] 	objsets\untitled.sc
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\untitled.sc
+[debug] 	objsets\NonEmpty.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\objsets\target\scala-2.13\classes\objsets\NonEmpty.class
+[info] Done packaging.

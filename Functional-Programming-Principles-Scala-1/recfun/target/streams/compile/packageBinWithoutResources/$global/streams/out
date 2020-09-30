@@ -1,0 +1,11 @@
+[info] Packaging D:\Projekty\Coursera-Scala-FP\recfun\target\scala-2.13\progfun1-recfun-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	recfun
+[debug] 	  D:\Projekty\Coursera-Scala-FP\recfun\target\scala-2.13\classes\recfun
+[debug] 	recfun\RecFun$.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\recfun\target\scala-2.13\classes\recfun\RecFun$.class
+[debug] 	recfun\RecFun.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\recfun\target\scala-2.13\classes\recfun\RecFun.class
+[debug] 	recfun\RecFunInterface.class
+[debug] 	  D:\Projekty\Coursera-Scala-FP\recfun\target\scala-2.13\classes\recfun\RecFunInterface.class
+[info] Done packaging.

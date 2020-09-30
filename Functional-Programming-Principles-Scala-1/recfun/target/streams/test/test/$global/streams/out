@@ -1,0 +1,34 @@
+[debug] javaOptions: Vector()
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(recfun.RecFunSuite, sbt.ForkMain$AnnotatedFingerscan@4dd3ef2b, false, [SuiteSelector])
+[info] Test run started
+[info] Test recfun.RecFunSuite.countChange: sorted CHF started
+[debug] Test recfun.RecFunSuite.countChange: sorted CHF finished, took 0.06 sec
+[info] Test recfun.RecFunSuite.countChange: unsorted CHF started
+[debug] Test recfun.RecFunSuite.countChange: unsorted CHF finished, took 0.005 sec
+[info] Test recfun.RecFunSuite.countChange: example given in instructions started
+[debug] Test recfun.RecFunSuite.countChange: example given in instructions finished, took 0.0 sec
+[info] Test recfun.RecFunSuite.balance: counting is not enough started
+[debug] Test recfun.RecFunSuite.balance: counting is not enough finished, took 0.065 sec
+[info] Test recfun.RecFunSuite.pascal: col=1,row=2 started
+[debug] Test recfun.RecFunSuite.pascal: col=1,row=2 finished, took 0.01 sec
+[info] Test recfun.RecFunSuite.pascal: col=1,row=3 started
+[debug] Test recfun.RecFunSuite.pascal: col=1,row=3 finished, took 0.005 sec
+[info] Test recfun.RecFunSuite.balance: ':-)' is unbalanced started
+[debug] Test recfun.RecFunSuite.balance: ':-)' is unbalanced finished, took 0.0 sec
+[info] Test recfun.RecFunSuite.pascal: col=0,row=2 started
+[debug] Test recfun.RecFunSuite.pascal: col=0,row=2 finished, took 0.0 sec
+[info] Test recfun.RecFunSuite.balance: '(if (zero? x) max (/ 1 x))' is balanced started
+[debug] Test recfun.RecFunSuite.balance: '(if (zero? x) max (/ 1 x))' is balanced finished, took 0.0 sec
+[info] Test recfun.RecFunSuite.countChange: no pennies started
+[debug] Test recfun.RecFunSuite.countChange: no pennies finished, took 0.006 sec
+[info] Test recfun.RecFunSuite.balance: 'I told him ...' is balanced started
+[debug] Test recfun.RecFunSuite.balance: 'I told him ...' is balanced finished, took 0.0 sec
+[info] Test run finished: 0 failed, 0 ignored, 11 total, 0.25s
+[debug]     Produced 0 nested tasks and 11 events.
+[debug] Summary for JUnit not available.
+[info] Passed: Total 11, Failed 0, Errors 0, Passed 11
+[debug] Passed tests:
+[debug] 	recfun.RecFunSuite

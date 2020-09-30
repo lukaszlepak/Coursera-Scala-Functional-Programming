@@ -1,0 +1,35 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(D:\Projekty\Coursera-Scala-FP\recfun\src\main\scala\recfun\RecFun.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(recfun.RecFun)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(recfun.RecFun)
+[debug] All initially invalidated sources:Set(D:\Projekty\Coursera-Scala-FP\recfun\src\main\scala\recfun\RecFun.scala)
+[info] Compiling 1 Scala source to D:\Projekty\Coursera-Scala-FP\recfun\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] [zinc] Running cached compiler 5ae288a1 for Scala compiler version 2.13.0
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-language:implicitConversions
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	D:\Projekty\Coursera-Scala-FP\recfun\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar
+[debug] 	-classpath
+[debug] 	D:\Projekty\Coursera-Scala-FP\recfun\target\scala-2.13\classes
+[debug] Scala compilation took 4.7842446 s
+[info] Done compiling.
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated classes after taking into account (previously) recompiled classes:Set()
