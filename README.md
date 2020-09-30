@@ -1,2 +1,2 @@
 # Coursera-Scala-Functional-Programming
-FP-Scala course from coursera https://www.coursera.org/specializations/scala
+Solutions to FP-Scala course from coursera https://www.coursera.org/specializations/scala
